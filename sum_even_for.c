@@ -7,6 +7,5 @@ main() {
         sum += count;
     printf("Сумма четных чисел от 0 до 100 равна %d\n", sum);
 
-    system("PAUSE");
     return 0;
 }

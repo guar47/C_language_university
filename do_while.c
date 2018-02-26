@@ -14,6 +14,5 @@ main() {
         count = count + 1;
     } while (count <= k);
 
-    system("PAUSE");
     return 0;
 }

@@ -36,8 +36,6 @@ main() {
     printf("Экзамены с оценкой 10: %d\n", countTen);
     printf("с нулевыми оценками: %d\n", countNull);
 
-    system("PAUSE");
-
     return 0;
 }
 

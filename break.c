@@ -12,6 +12,5 @@ main() {
     if (count != k * 2) count = k;
     printf("Первое кратное %d это % d\n", k, count);
 
-    system("PAUSE");
     return 0;
 }

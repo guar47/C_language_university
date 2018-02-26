@@ -13,6 +13,5 @@ main() {
         count = count + 1;
     }
 
-    system("PAUSE");
     return 0;
 }

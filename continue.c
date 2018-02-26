@@ -11,6 +11,5 @@ main() {
         printf("\t%d\n", count);
     }
 
-    system("PAUSE");
     return 0;
 }

@@ -12,8 +12,6 @@ main() {
         printf("Зачет!\n");
         printf("Оценка (1-10) составляет %f\n", mark_dec);
     } else printf("Незачет!\n");
-
-    // system("PAUSE"); only for windows, prevent close command line
-
+    
     return 0;
 }

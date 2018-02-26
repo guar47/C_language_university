@@ -14,7 +14,6 @@ main() {
     printf("Pre-decrement\n");
     printf("%d\n %d\n %d\n", d, --d, d);
 
-    system("PAUSE");
     return 0;
 }
 
