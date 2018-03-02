@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-main() {
+int main() {
     int num1, num2;
     printf("Ввести первое целое число\n");
     scanf("%d", &num1);

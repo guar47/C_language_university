@@ -1,7 +1,7 @@
 // test_if_else.c
 #include <stdio.h>
 
-main() {
+int main() {
     int mark_cent;
     double mark_dec;
     printf("Введите оценку(1-100)\n");

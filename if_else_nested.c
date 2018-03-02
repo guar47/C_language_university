@@ -1,7 +1,7 @@
 // test_if_else_nested2.c
 #include <stdio.h>
 
-main() {
+int main() {
     int mark;
     int year;
 

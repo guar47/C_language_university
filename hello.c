@@ -1,6 +1,6 @@
 /* First program of the course */
 #include <stdio.h>
 
-main() {
+void main() {
     printf("Welcome\nto the\nC language!\n");
 }

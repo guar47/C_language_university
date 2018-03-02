@@ -1,7 +1,7 @@
 // test_increment_decrement.c
 #include <stdio.h>
 
-main() {
+int main() {
     int c = 5, d = 8;
     printf("Post-increment\n");
     printf("%d\n %d\n %d\n", c, c++, c);

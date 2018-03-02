@@ -4,7 +4,7 @@
 
 int square(int); // function prototype
 
-main() {
+int main() {
     int x;
     for (x = 0; x < 10; ++x) {
         printf("square of %d = %d\n", x, square(x));

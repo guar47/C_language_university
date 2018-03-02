@@ -2,7 +2,7 @@
 
 int maximum(int, int, int); // function prototype
 
-main() {
+int main() {
     int a, b, c, max;
 
     printf("Insert 3 integer numbers:\n");

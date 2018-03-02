@@ -1,7 +1,7 @@
 // sum_even_for.c
 #include <stdio.h>
 
-main() {
+int main() {
     int sum = 0, count;
     for (count = 2; count <= 100; count += 2)
         sum += count;

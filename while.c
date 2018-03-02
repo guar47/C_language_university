@@ -1,7 +1,7 @@
 // print_k_numbers_odd.c
 #include <stdio.h>
 
-main() {
+int main() {
     int k, odd, count;
     printf("Ввести целое число\n");
     scanf("%d", &k);

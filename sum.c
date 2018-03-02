@@ -1,7 +1,7 @@
 /* Program that sums two integers */
 #include <stdio.h>
 
-main() {
+int main() {
     int integer1, integer2, sum;
     printf("Enter the first integer\n");
     scanf("%d", &integer1);

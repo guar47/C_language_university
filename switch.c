@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main() {
+int main() {
     int countSix = 0, countSeven = 0, countEight = 0, countNine = 0, countTen = 0, countNull = 0, count, mark;
 
     for (count = 1; count <= 20; count++) {
