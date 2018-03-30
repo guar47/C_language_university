@@ -4,7 +4,7 @@ int main() {
     int countSix = 0, countSeven = 0, countEight = 0, countNine = 0, countTen = 0, countNull = 0, count, mark;
 
     for (count = 1; count <= 20; count++) {
-        printf("Ввести оценку за экзамен n.%d\n", count);
+        printf("Enter exam mark n.%d\n", count);
         scanf("%d", &mark);
         switch (mark) {
             case 6:
