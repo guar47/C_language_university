@@ -43,3 +43,6 @@ add_executable(operation_multi_array 14-multidem-arrays/operation_multi_arrays.c
 add_executable(square_matrix 14-multidem-arrays/square_matrix.c)
 add_executable(3d_array 14-multidem-arrays/3d_array.c)
 add_executable(sort_array_ascending_pointers 18-pointer-arithmetic/sort_array_ascending_pointers.c)
+add_executable(task1 task1.c)
+add_executable(task2 task2.c)
+add_executable(task3 task3.c)
